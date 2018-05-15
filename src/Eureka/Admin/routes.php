@@ -1,6 +1,6 @@
 <?php
 Route::prefix('admin')->group(function(){
-	Route::get('/', 'Siriusnote\Framework\AdminController@index')->name('admin.dashboard');
+	Route::get('/', 'Eureka\Admin\AdminController@index')->name('admin.dashboard');
 });
 
 ?>

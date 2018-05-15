@@ -1,6 +1,6 @@
 <?php
 
-namespace Siriusnote\Framework;
+namespace Eureka\Admin;
 
 use Illuminate\Support\ServiceProvider;
 
