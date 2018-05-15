@@ -1,0 +1,15 @@
+{
+    "name": "siriusnote/eureka",
+    "authors": [
+        {
+            "name": "Sirius Tam",
+            "email": "sirius731@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4":{
+    		"Eureka\\": "src/Eureka"
+    	}
+    }
+}
